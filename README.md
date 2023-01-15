@@ -14,3 +14,11 @@ Bilibili:
 
 -   https://space.bilibili.com/1626410449
 
+<br/>
+
+## **相关博客**
+
+-   [《关于软考的一些总结》](https://jasonkayzk.github.io/2023/01/15/关于软考的一些总结/)
+
+
+
